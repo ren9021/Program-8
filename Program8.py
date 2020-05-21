@@ -6,17 +6,8 @@
 #
 #  File Name:         Program8.py
 #
-#  Course:            COSC 1336 Programming Fundamentals I 
-#
-#  Due Date:          10-25-19
-#
-#  Instructor:        Fred Kumi 
-#
-#  Chapter:           Chapter # 5
-#
-#  Description:
-#     This program finds the roots of a quadratic
-#     equation using the Quadratic Formula.
+#  Description:       This program finds the roots of a quadratic
+#                     equation using the Quadratic Formula
 #
 #********************************************************************
 
@@ -61,7 +52,6 @@ def main():
         
 def developerInfo():
     print('Name:     Renee White')
-    print('Course:   Programming Fundamentals I')
     print('Program:  8')
     print()
     
